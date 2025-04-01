@@ -1,0 +1,1602 @@
+[
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What career is best for me?"
+            },
+            {
+                "role": "assistant",
+                "content": "The best career for you depends on your interests, skills, and values. Consider taking a career assessment test, reflecting on what you enjoy, and researching careers that align with your strengths and passions."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I find my passion in a career?"
+            },
+            {
+                "role": "assistant",
+                "content": "To find your passion, explore different fields through internships, volunteering, or side projects. Reflect on activities that energize you and consider careers that align with those interests."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What factors should I consider when choosing a career?"
+            },
+            {
+                "role": "assistant",
+                "content": "When choosing a career, consider your interests, skills, values, job market demand, salary expectations, work-life balance, and long-term growth opportunities."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How can I identify my strengths and weaknesses for a job?"
+            },
+            {
+                "role": "assistant",
+                "content": "To identify your strengths and weaknesses, ask for feedback from peers, mentors, or supervisors. You can also take self-assessment tests or reflect on past experiences to understand what you excel at and areas for improvement."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What are some high-paying careers?"
+            },
+            {
+                "role": "assistant",
+                "content": "Some high-paying careers include software engineering, data science, medicine, law, investment banking, and roles in artificial intelligence and cybersecurity."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How can I future-proof my career?"
+            },
+            {
+                "role": "assistant",
+                "content": "To future-proof your career, focus on developing skills in emerging technologies, adaptability, and continuous learning. Stay updated on industry trends and consider roles that are less likely to be automated."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What skills are in demand for jobs in 2025?"
+            },
+            {
+                "role": "assistant",
+                "content": "Skills in demand for 2025 include artificial intelligence, machine learning, data analysis, cybersecurity, cloud computing, and soft skills like emotional intelligence and adaptability."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I get experience if I am just starting?"
+            },
+            {
+                "role": "assistant",
+                "content": "To gain experience, consider internships, volunteer work, freelance projects, or part-time jobs. You can also work on personal projects or contribute to open-source initiatives to build your portfolio."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "Should I follow my passion or a stable career path?"
+            },
+            {
+                "role": "assistant",
+                "content": "It depends on your priorities. If financial stability is important, consider a stable career path that also aligns with your interests. If you're willing to take risks, pursuing your passion can lead to fulfilling work."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I switch careers without losing my current progress?"
+            },
+            {
+                "role": "assistant",
+                "content": "To switch careers without losing progress, identify transferable skills, network with professionals in the new field, and consider taking courses or certifications to bridge any knowledge gaps."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What are the best jobs in the tech industry?"
+            },
+            {
+                "role": "assistant",
+                "content": "Some of the best jobs in the tech industry include software engineer, data scientist, cybersecurity analyst, cloud architect, and AI/ML engineer."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What are the career options in aerospace engineering?"
+            },
+            {
+                "role": "assistant",
+                "content": "Career options in aerospace engineering include roles in aircraft design, space exploration, defense systems, satellite technology, and research and development."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What career paths exist in AI and machine learning?"
+            },
+            {
+                "role": "assistant",
+                "content": "Career paths in AI and machine learning include data scientist, machine learning engineer, AI researcher, NLP specialist, and roles in AI ethics and policy."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I get into cybersecurity?"
+            },
+            {
+                "role": "assistant",
+                "content": "To get into cybersecurity, start by learning the basics of networking and programming. Obtain certifications like CompTIA Security+ or CISSP, and gain experience through internships or entry-level roles."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What are some non-traditional career paths?"
+            },
+            {
+                "role": "assistant",
+                "content": "Non-traditional career paths include roles in digital marketing, UX/UI design, content creation, eSports, and careers in the gig economy like freelance writing or graphic design."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What are the best careers for introverts?"
+            },
+            {
+                "role": "assistant",
+                "content": "Best careers for introverts include software development, data analysis, writing, graphic design, and roles in research or accounting."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What are the best careers for extroverts?"
+            },
+            {
+                "role": "assistant",
+                "content": "Best careers for extroverts include sales, public relations, event planning, teaching, and roles in hospitality or entertainment."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What career options exist in IoT and smart vehicles?"
+            },
+            {
+                "role": "assistant",
+                "content": "Career options in IoT and smart vehicles include IoT developer, embedded systems engineer, data analyst, and roles in autonomous vehicle technology and smart city infrastructure."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What are the job prospects for aeronautical engineers in India?"
+            },
+            {
+                "role": "assistant",
+                "content": "Job prospects for aeronautical engineers in India are strong, with opportunities in organizations like ISRO, DRDO, HAL, and private aerospace companies. The growing aviation sector also offers roles in aircraft manufacturing and maintenance."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I enter the space industry as an engineer?"
+            },
+            {
+                "role": "assistant",
+                "content": "To enter the space industry as an engineer, pursue a degree in aerospace or mechanical engineering, gain relevant experience through internships, and apply to organizations like NASA, ISRO, or private space companies."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What degree is best for a career in AI?"
+            },
+            {
+                "role": "assistant",
+                "content": "A degree in computer science, data science, or artificial intelligence is ideal for a career in AI. Specialized programs in machine learning or robotics can also be beneficial."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "Should I go for a master's degree or gain work experience?"
+            },
+            {
+                "role": "assistant",
+                "content": "It depends on your career goals. A master's degree can provide specialized knowledge, while work experience offers practical skills. Consider your industry and whether advanced education is required for your desired role."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "Are certifications more valuable than a degree?"
+            },
+            {
+                "role": "assistant",
+                "content": "Certifications can be valuable for specific skills or industries, but a degree often provides a broader foundation. The value depends on the field and the employer's requirements."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "Which programming languages should I learn for my career?"
+            },
+            {
+                "role": "assistant",
+                "content": "The programming languages you should learn depend on your career goals. Popular languages include Python for data science, JavaScript for web development, and C++ for systems programming."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How important is an MBA for a business career?"
+            },
+            {
+                "role": "assistant",
+                "content": "An MBA can be important for advancing in a business career, especially for leadership roles. However, it's not always necessary, and some professionals succeed through experience and networking."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I choose the right university for my career?"
+            },
+            {
+                "role": "assistant",
+                "content": "To choose the right university, consider factors like program reputation, faculty expertise, alumni network, location, and opportunities for internships or research in your field of interest."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "Can I get a tech job without a computer science degree?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, you can get a tech job without a computer science degree by building a strong portfolio, obtaining relevant certifications, and gaining experience through internships or freelance projects."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What are the best online courses for career growth?"
+            },
+            {
+                "role": "assistant",
+                "content": "Some of the best online courses for career growth include Coursera, edX, Udemy, and LinkedIn Learning. Look for courses in your field, such as data science, programming, or business management."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How can I improve my problem-solving skills for a job?"
+            },
+            {
+                "role": "assistant",
+                "content": "To improve problem-solving skills, practice critical thinking, work on puzzles or coding challenges, and seek feedback on your solutions. Collaborating with others can also enhance your skills."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I learn soft skills for career success?"
+            },
+            {
+                "role": "assistant",
+                "content": "To learn soft skills, take courses in communication, leadership, and emotional intelligence. Practice these skills in real-life situations, seek feedback, and observe successful professionals."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I write a strong resume?"
+            },
+            {
+                "role": "assistant",
+                "content": "To write a strong resume, tailor it to the job description, highlight relevant skills and achievements, use action verbs, and keep it concise. Proofread for errors and ensure a clean, professional format."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What should I include in my cover letter?"
+            },
+            {
+                "role": "assistant",
+                "content": "In your cover letter, include a brief introduction, why you're interested in the role, how your skills and experience align with the job, and a strong closing statement. Keep it concise and tailored to the position."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How can I make my LinkedIn profile stand out?"
+            },
+            {
+                "role": "assistant",
+                "content": "To make your LinkedIn profile stand out, use a professional photo, write a compelling headline, summarize your experience and skills, and include recommendations. Regularly update your profile and engage with content."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What are the best job portals for finding jobs?"
+            },
+            {
+                "role": "assistant",
+                "content": "Some of the best job portals include LinkedIn, Indeed, Glassdoor, and specialized portals like AngelList for startups or Dice for tech jobs. Use multiple platforms to maximize your opportunities."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I apply for jobs with no experience?"
+            },
+            {
+                "role": "assistant",
+                "content": "To apply for jobs with no experience, focus on transferable skills, volunteer work, internships, or personal projects. Tailor your resume to highlight relevant skills and express enthusiasm for learning."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I optimize my resume for ATS systems?"
+            },
+            {
+                "role": "assistant",
+                "content": "To optimize your resume for ATS systems, use keywords from the job description, avoid complex formatting, and include relevant skills and experience. Use standard headings like 'Work Experience' and 'Education.'"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How can I get noticed by recruiters?"
+            },
+            {
+                "role": "assistant",
+                "content": "To get noticed by recruiters, optimize your LinkedIn profile, network actively, apply to jobs through referrals, and showcase your skills through a strong portfolio or personal website."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How important are references in job applications?"
+            },
+            {
+                "role": "assistant",
+                "content": "References can be important in job applications as they provide credibility and insight into your work ethic. Choose references who can speak positively about your skills and experience."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I write an effective personal statement?"
+            },
+            {
+                "role": "assistant",
+                "content": "To write an effective personal statement, focus on your motivations, relevant experiences, and future goals. Be concise, authentic, and tailor it to the specific role or program you're applying for."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What are some resume mistakes to avoid?"
+            },
+            {
+                "role": "assistant",
+                "content": "Common resume mistakes to avoid include spelling and grammar errors, using a generic template, including irrelevant information, and failing to tailor the resume to the job description."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I prepare for a job interview?"
+            },
+            {
+                "role": "assistant",
+                "content": "To prepare for a job interview, research the company, practice common interview questions, prepare questions to ask the interviewer, and dress professionally. Also, review your resume and be ready to discuss your experiences."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What are common job interview questions?"
+            },
+            {
+                "role": "assistant",
+                "content": "Common job interview questions include 'Tell me about yourself,' 'What are your strengths and weaknesses?', 'Why do you want this job?', and 'Where do you see yourself in five years?'"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I answer 'Tell me about yourself'?"
+            },
+            {
+                "role": "assistant",
+                "content": "When answering 'Tell me about yourself,' provide a brief overview of your professional background, highlight relevant experiences, and connect them to the job you're applying for. Keep it concise and focused."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What are the best ways to handle interview stress?"
+            },
+            {
+                "role": "assistant",
+                "content": "To handle interview stress, practice deep breathing, visualize success, prepare thoroughly, and arrive early. Remember that it's okay to take a moment to think before answering questions."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I negotiate a better salary?"
+            },
+            {
+                "role": "assistant",
+                "content": "To negotiate a better salary, research industry standards, highlight your skills and achievements, and be confident but polite. Practice your negotiation points and be prepared to discuss your value to the company."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What are some good questions to ask in an interview?"
+            },
+            {
+                "role": "assistant",
+                "content": "Good questions to ask in an interview include 'What does success look like in this role?', 'Can you tell me about the team I'll be working with?', and 'What are the next steps in the hiring process?'"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I dress professionally for an interview?"
+            },
+            {
+                "role": "assistant",
+                "content": "Dress professionally for an interview by wearing business attire, such as a suit or formal dress. Ensure your clothes are clean, well-fitted, and appropriate for the company's culture."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How can I make a great first impression in an interview?"
+            },
+            {
+                "role": "assistant",
+                "content": "To make a great first impression, arrive on time, dress professionally, offer a firm handshake, maintain eye contact, and greet the interviewer with a smile. Be confident and enthusiastic."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I answer behavioral interview questions?"
+            },
+            {
+                "role": "assistant",
+                "content": "To answer behavioral interview questions, use the STAR method: describe the Situation, Task, Action, and Result. Focus on specific examples that demonstrate your skills and achievements."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What should I do after a job interview?"
+            },
+            {
+                "role": "assistant",
+                "content": "After a job interview, send a thank-you email to the interviewer, reiterating your interest in the role and highlighting key points from the interview. Follow up if you haven't heard back within the expected timeframe."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I get promoted at work?"
+            },
+            {
+                "role": "assistant",
+                "content": "To get promoted at work, consistently deliver high-quality results, take on additional responsibilities, and demonstrate leadership skills. Communicate your career goals with your manager and seek feedback."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What are the best ways to ask for a raise?"
+            },
+            {
+                "role": "assistant",
+                "content": "To ask for a raise, prepare by documenting your achievements, research salary benchmarks, and schedule a meeting with your manager. Be confident, professional, and ready to discuss your contributions to the company."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I develop leadership skills?"
+            },
+            {
+                "role": "assistant",
+                "content": "To develop leadership skills, take on leadership roles in projects, seek mentorship, and learn from successful leaders. Practice communication, decision-making, and emotional intelligence."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I transition from an employee to a manager?"
+            },
+            {
+                "role": "assistant",
+                "content": "To transition from an employee to a manager, develop leadership skills, seek mentorship, and take on responsibilities that demonstrate your ability to lead. Communicate your career goals with your supervisor."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I handle office politics?"
+            },
+            {
+                "role": "assistant",
+                "content": "To handle office politics, stay neutral in conflicts, build positive relationships, and focus on your work. Avoid gossip and maintain professionalism at all times."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I improve my communication skills for career growth?"
+            },
+            {
+                "role": "assistant",
+                "content": "To improve communication skills, practice active listening, seek feedback, and take courses in public speaking or writing. Engage in conversations and observe effective communicators."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I stay relevant in a fast-changing job market?"
+            },
+            {
+                "role": "assistant",
+                "content": "To stay relevant, continuously update your skills, stay informed about industry trends, and embrace lifelong learning. Networking and adaptability are also key to staying competitive."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What are the best networking strategies for career growth?"
+            },
+            {
+                "role": "assistant",
+                "content": "Best networking strategies include attending industry events, joining professional organizations, leveraging LinkedIn, and reaching out to mentors or peers. Be genuine and offer value in your interactions."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I find a mentor in my industry?"
+            },
+            {
+                "role": "assistant",
+                "content": "To find a mentor, attend industry events, join professional organizations, and reach out to experienced professionals. Be clear about your goals and what you hope to gain from the mentorship."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How can I balance work and personal life effectively?"
+            },
+            {
+                "role": "assistant",
+                "content": "To balance work and personal life, set boundaries, prioritize tasks, and schedule time for relaxation and hobbies. Communicate your needs with your employer and seek support when needed."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I start my own business?"
+            },
+            {
+                "role": "assistant",
+                "content": "To start your own business, identify a viable idea, conduct market research, create a business plan, secure funding, and register your business. Focus on building a strong brand and customer base."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What are the best business ideas for students?"
+            },
+            {
+                "role": "assistant",
+                "content": "Best business ideas for students include tutoring, freelance writing, social media management, selling handmade products, and starting a blog or YouTube channel."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I write a business plan?"
+            },
+            {
+                "role": "assistant",
+                "content": "To write a business plan, include an executive summary, company description, market analysis, organization structure, product or service line, marketing strategy, and financial projections."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How can I secure funding for my startup?"
+            },
+            {
+                "role": "assistant",
+                "content": "To secure funding for your startup, consider options like venture capital, angel investors, crowdfunding, or small business loans. Prepare a strong pitch and business plan to attract investors."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What are the biggest challenges entrepreneurs face?"
+            },
+            {
+                "role": "assistant",
+                "content": "The biggest challenges entrepreneurs face include securing funding, managing cash flow, building a customer base, and staying competitive. Time management and work-life balance are also common struggles."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I validate a startup idea?"
+            },
+            {
+                "role": "assistant",
+                "content": "To validate a startup idea, conduct market research, gather feedback from potential customers, and test your product or service with a small audience. Analyze the results and refine your idea accordingly."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What are some good side hustles for extra income?"
+            },
+            {
+                "role": "assistant",
+                "content": "Good side hustles for extra income include freelance writing, graphic design, tutoring, ride-sharing, and selling products online. Choose something that aligns with your skills and interests."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I market my startup on a budget?"
+            },
+            {
+                "role": "assistant",
+                "content": "To market your startup on a budget, leverage social media, create engaging content, and use email marketing. Collaborate with influencers, attend networking events, and focus on building a strong online presence."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What are the legal steps to start a business?"
+            },
+            {
+                "role": "assistant",
+                "content": "Legal steps to start a business include choosing a business structure, registering your business name, obtaining necessary licenses and permits, and setting up tax and accounting systems."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "Should I work in a job first before starting a business?"
+            },
+            {
+                "role": "assistant",
+                "content": "Working in a job before starting a business can provide valuable experience, industry knowledge, and financial stability. However, it's not mandatory, and some entrepreneurs succeed by diving straight into their ventures."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I manage stress at work?"
+            },
+            {
+                "role": "assistant",
+                "content": "To manage stress at work, prioritize tasks, take regular breaks, practice mindfulness, and maintain a healthy work-life balance. Seek support from colleagues or a professional if needed."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What are some strategies to prevent burnout?"
+            },
+            {
+                "role": "assistant",
+                "content": "Strategies to prevent burnout include setting boundaries, taking time off, practicing self-care, and seeking support. Regularly assess your workload and make adjustments to maintain balance."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How can I stay productive while working remotely?"
+            },
+            {
+                "role": "assistant",
+                "content": "To stay productive while working remotely, create a dedicated workspace, set a schedule, use productivity tools, and take regular breaks. Stay connected with your team and maintain clear communication."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What are some ways to improve focus at work?"
+            },
+            {
+                "role": "assistant",
+                "content": "To improve focus at work, eliminate distractions, prioritize tasks, use time management techniques like the Pomodoro method, and take regular breaks. Maintain a healthy lifestyle with proper sleep and nutrition."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I handle work anxiety?"
+            },
+            {
+                "role": "assistant",
+                "content": "To handle work anxiety, practice mindfulness, break tasks into smaller steps, and seek support from colleagues or a mental health professional. Maintain a healthy work-life balance and prioritize self-care."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I maintain a work-life balance?"
+            },
+            {
+                "role": "assistant",
+                "content": "To maintain a work-life balance, set clear boundaries, prioritize tasks, and schedule time for personal activities. Communicate your needs with your employer and avoid overcommitting."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What are some good habits for workplace success?"
+            },
+            {
+                "role": "assistant",
+                "content": "Good habits for workplace success include being punctual, staying organized, communicating effectively, and continuously learning. Build positive relationships and take initiative in your work."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I recover from job rejection?"
+            },
+            {
+                "role": "assistant",
+                "content": "To recover from job rejection, reflect on the experience, seek feedback, and focus on improving your skills. Stay positive, keep applying, and remember that rejection is a normal part of the job search process."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How can I stay motivated in my career?"
+            },
+            {
+                "role": "assistant",
+                "content": "To stay motivated in your career, set clear goals, celebrate small wins, and seek opportunities for growth. Surround yourself with supportive colleagues and regularly reassess your career path."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I deal with a toxic work environment?"
+            },
+            {
+                "role": "assistant",
+                "content": "To deal with a toxic work environment, set boundaries, seek support from colleagues or HR, and focus on your well-being. If the situation doesn't improve, consider exploring other job opportunities."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "Can I make a career in freelancing?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, you can make a career in freelancing by building a strong portfolio, networking, and marketing your skills. Freelancing offers flexibility but requires self-discipline and business management skills."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What are the best remote job opportunities?"
+            },
+            {
+                "role": "assistant",
+                "content": "Best remote job opportunities include roles in software development, digital marketing, content writing, graphic design, and customer support. Many companies now offer remote positions across various industries."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I become a digital nomad?"
+            },
+            {
+                "role": "assistant",
+                "content": "To become a digital nomad, choose a remote-friendly career, build a strong online presence, and secure reliable internet access. Plan your finances and travel arrangements carefully to maintain a sustainable lifestyle."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "Can I make money as a content creator?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, you can make money as a content creator through ad revenue, sponsorships, merchandise sales, and affiliate marketing. Building a loyal audience and consistently creating high-quality content are key to success."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What are the best careers in the gig economy?"
+            },
+            {
+                "role": "assistant",
+                "content": "Best careers in the gig economy include freelance writing, graphic design, ride-sharing, food delivery, and consulting. These roles offer flexibility but require self-management and marketing skills."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I start a career in eSports?"
+            },
+            {
+                "role": "assistant",
+                "content": "To start a career in eSports, focus on improving your gaming skills, participate in tournaments, and build a personal brand. Consider roles in game development, streaming, or event management if you're not a player."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What are the best side hustles for students?"
+            },
+            {
+                "role": "assistant",
+                "content": "Best side hustles for students include tutoring, freelance writing, social media management, selling handmade products, and participating in online surveys or gig economy jobs."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I transition from a corporate job to freelancing?"
+            },
+            {
+                "role": "assistant",
+                "content": "To transition from a corporate job to freelancing, build a portfolio, network with potential clients, and start freelancing part-time before making the full switch. Ensure you have financial stability and a clear business plan."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "Can I turn my hobby into a career?"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, you can turn your hobby into a career by identifying marketable skills, building a portfolio, and networking. Consider starting part-time or freelancing to test the viability of your hobby as a career."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What are some unique career options no one talks about?"
+            },
+            {
+                "role": "assistant",
+                "content": "Unique career options include ethical hacking, forensic psychology, wildlife photography, voice acting, and roles in virtual reality development. These careers often require specialized skills but offer unique opportunities."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I become an airline pilot?"
+            },
+            {
+                "role": "assistant",
+                "content": "To become an airline pilot, obtain a commercial pilot license (CPL), accumulate flight hours, and pass medical and written exams. Consider attending a flight school and gaining experience through smaller airlines or cargo operations."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What are the best careers in cybersecurity?"
+            },
+            {
+                "role": "assistant",
+                "content": "Best careers in cybersecurity include roles like security analyst, penetration tester, cybersecurity consultant, and chief information security officer (CISO). These roles require technical skills and certifications like CISSP or CEH."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I get a job at a space agency like ISRO or NASA?"
+            },
+            {
+                "role": "assistant",
+                "content": "To get a job at a space agency, pursue a degree in aerospace engineering, physics, or a related field. Gain experience through internships, research projects, and networking. Apply to open positions and prepare for rigorous selection processes."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What are the career opportunities in blockchain?"
+            },
+            {
+                "role": "assistant",
+                "content": "Career opportunities in blockchain include roles like blockchain developer, smart contract engineer, blockchain consultant, and roles in cryptocurrency trading or analysis. These roles require knowledge of blockchain technology and programming."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I get into the finance and banking industry?"
+            },
+            {
+                "role": "assistant",
+                "content": "To get into the finance and banking industry, pursue a degree in finance, economics, or business. Gain experience through internships, obtain certifications like CFA, and network with professionals in the field."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What are the best careers in the automotive industry?"
+            },
+            {
+                "role": "assistant",
+                "content": "Best careers in the automotive industry include roles in automotive design, engineering, manufacturing, and sales. Emerging fields like electric vehicles and autonomous driving also offer exciting opportunities."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I build a career in game development?"
+            },
+            {
+                "role": "assistant",
+                "content": "To build a career in game development, learn programming languages like C++ or Unity, create a portfolio of game projects, and network with industry professionals. Consider internships or entry-level roles in game studios."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "What are the best careers in the renewable energy sector?"
+            },
+            {
+                "role": "assistant",
+                "content": "Best careers in the renewable energy sector include roles in solar and wind energy engineering, energy consulting, and environmental policy. These roles are growing as the world shifts toward sustainable energy solutions."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How can I work in the defense and aerospace sector?"
+            },
+            {
+                "role": "assistant",
+                "content": "To work in the defense and aerospace sector, pursue a degree in aerospace engineering, mechanical engineering, or a related field. Gain experience through internships, research, and networking with professionals in the industry."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "How do I become a data scientist?"
+            },
+            {
+                "role": "assistant",
+                "content": "To become a data scientist, learn programming languages like Python and R, study statistics and machine learning, and build a portfolio of data projects. Consider obtaining a degree in data science or a related field."
+            }
+        ]
+    }
+]

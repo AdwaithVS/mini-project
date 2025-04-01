@@ -1,0 +1,3502 @@
+[
+    {
+        "id": 501,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 502,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That 2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 503,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 504,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 505,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 506,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 507,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 508,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 509,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 510,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 511,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 512,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 513,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 514,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 515,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 516,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 517,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 518,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 519,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 520,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 521,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 522,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 523,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 524,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 525,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 526,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 527,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 528,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 529,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 530,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 531,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 532,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 533,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 534,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 535,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 536,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 537,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 538,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 539,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 540,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 541,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 542,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 543,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 544,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 545,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 546,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 547,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 548,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 549,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 550,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 551,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 552,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 553,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 554,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 555,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 556,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 557,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 558,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 559,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 560,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 561,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 562,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 563,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 564,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 565,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 566,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 567,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 568,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 569,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 570,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 571,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 572,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 573,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 574,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 575,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 576,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 577,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 578,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 579,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 580,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 581,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 582,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 583,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 584,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 585,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 586,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 587,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 588,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 589,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 590,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 591,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 592,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 593,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 594,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 595,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 596,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 597,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 598,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 599,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 600,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 601,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 602,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 603,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 604,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 605,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 606,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 607,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 608,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 609,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 610,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 611,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 612,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 613,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 614,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 615,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 616,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 617,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 618,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 619,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 620,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 621,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 622,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 623,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 624,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 625,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 626,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 627,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 628,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 629,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 630,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 631,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 632,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 633,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 634,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 635,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 636,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 637,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 638,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 639,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 640,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 641,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 642,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 643,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 644,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 645,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 646,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 647,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 648,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 649,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 650,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 651,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 652,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 653,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 654,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 655,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 656,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 657,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 658,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 659,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 660,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 661,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 662,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 663,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 664,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 665,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 666,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 667,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 668,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 669,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 670,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 671,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 672,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 673,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 674,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 675,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 676,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 677,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 678,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 679,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 680,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 681,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 682,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 683,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 684,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 685,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 686,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 687,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 688,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 689,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 690,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 691,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 692,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 693,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 694,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 695,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 696,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 697,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 698,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 699,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 700,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 701,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 702,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 703,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 704,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 705,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 706,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 707,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 708,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 709,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 710,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 711,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 712,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 713,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 714,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 715,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 716,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 717,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 718,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 719,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 720,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 721,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 722,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 723,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 724,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 725,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 726,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 727,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 728,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 729,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 730,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 731,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 732,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 733,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 734,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 735,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 736,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 737,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 738,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 739,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 740,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 741,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 742,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 743,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 744,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 745,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 746,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 747,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 748,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 749,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 750,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 751,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 752,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 753,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 754,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 755,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 756,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 757,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 758,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 759,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 760,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 761,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 762,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 763,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 764,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 765,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 766,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 767,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 768,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 769,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 770,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 771,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 772,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 773,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 774,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 775,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 776,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 777,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 778,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 779,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 780,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 781,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 782,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 783,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 784,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 785,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 786,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 787,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 788,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 789,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 790,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 791,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 792,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 793,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 794,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 795,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 796,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 797,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 798,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 799,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 800,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 801,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 802,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 803,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 804,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 805,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 806,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 807,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 808,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 809,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 810,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 811,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 812,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 813,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 814,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 815,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 816,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 817,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 818,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 819,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 820,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 821,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 822,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 823,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 824,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 825,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 826,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 827,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 828,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 829,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 830,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 831,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 832,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 833,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 834,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 835,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 836,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 837,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 838,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 839,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 840,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 841,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 842,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 843,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 844,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 845,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 846,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 847,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 848,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 849,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 850,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 851,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 852,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 853,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 854,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 855,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 856,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 857,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 858,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 859,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 860,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 861,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 862,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 863,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 864,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 865,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 866,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 867,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 868,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 869,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 870,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 871,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 872,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 873,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 874,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 875,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 876,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 877,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 878,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 879,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 880,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 881,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 882,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 883,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 884,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 885,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 886,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 887,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 888,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 889,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 890,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 891,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 892,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 893,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 894,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 895,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 896,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 897,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 898,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 899,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 900,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 901,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 902,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 903,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 904,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 905,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 906,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 907,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 908,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 909,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 910,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 911,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 912,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 913,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 914,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 915,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 916,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 917,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 918,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 919,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 920,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 921,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 922,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 923,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 924,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 925,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 926,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 927,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 928,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 929,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 930,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 931,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 932,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 933,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 934,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 935,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 936,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 937,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 938,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 939,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 940,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 941,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 942,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 943,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 944,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 945,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 946,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 947,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 948,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 949,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 950,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 951,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 952,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 953,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 954,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 955,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 956,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 957,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 958,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 959,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 960,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 961,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 962,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 963,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 964,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 965,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 966,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 967,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 968,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 969,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 970,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 971,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 972,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 973,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 974,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 975,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 976,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 977,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 978,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 979,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 980,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 981,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 982,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 983,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 984,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 985,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 986,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 987,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 988,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 989,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 990,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    },
+    {
+        "id": 991,
+        "user_input": "I feel nervous about meeting new people.",
+        "emotion": "Nervousness",
+        "response": "Meeting new people can be nerve-wracking. Deep breathing can help calm your mind.",
+        "cbt_suggestion": "Try exposure therapy by gradually introducing yourself to new social situations."
+    },
+    {
+        "id": 992,
+        "user_input": "I am thrilled about my recent success!",
+        "emotion": "Joy",
+        "response": "That\u2019s fantastic! What did you do to achieve this success?",
+        "cbt_suggestion": "Celebrate your success and use it as motivation for future challenges."
+    },
+    {
+        "id": 993,
+        "user_input": "I am worried about my health issues.",
+        "emotion": "Worry",
+        "response": "Health concerns can be stressful. Have you spoken to a professional about it?",
+        "cbt_suggestion": "Practice deep breathing or progressive muscle relaxation to ease worries."
+    },
+    {
+        "id": 994,
+        "user_input": "I feel disconnected from my friends.",
+        "emotion": "Isolation",
+        "response": "Feeling disconnected is tough. Maybe reaching out to an old friend could help?",
+        "cbt_suggestion": "Rekindle friendships by initiating small conversations or activities together."
+    },
+    {
+        "id": 995,
+        "user_input": "I am thankful for the opportunities I have.",
+        "emotion": "Appreciation",
+        "response": "Gratitude is a great mindset! What\u2019s something you appreciate the most?",
+        "cbt_suggestion": "Keep a daily gratitude journal to focus on positive aspects of life."
+    },
+    {
+        "id": 996,
+        "user_input": "I feel stuck in a routine and need a change.",
+        "emotion": "Boredom",
+        "response": "Sometimes a change in routine can bring new energy. Have you tried a new hobby?",
+        "cbt_suggestion": "Break your routine by introducing small, fun changes in your day."
+    },
+    {
+        "id": 997,
+        "user_input": "I can't stop thinking about an embarrassing moment.",
+        "emotion": "Embarrassment",
+        "response": "Embarrassing moments happen to everyone. What would you say to a friend in the same situation?",
+        "cbt_suggestion": "Reframe the embarrassing moment as a learning experience and laugh about it."
+    },
+    {
+        "id": 998,
+        "user_input": "I feel proud of overcoming a challenge.",
+        "emotion": "Pride",
+        "response": "You should be proud! What lesson did you learn from overcoming this challenge?",
+        "cbt_suggestion": "Recognize your strengths and use them to tackle new obstacles."
+    },
+    {
+        "id": 999,
+        "user_input": "I feel exhausted and emotionally drained.",
+        "emotion": "Fatigue",
+        "response": "Burnout is real. Taking short breaks and self-care can make a big difference.",
+        "cbt_suggestion": "Engage in activities that help recharge your energy, like meditation or a hobby."
+    },
+    {
+        "id": 1000,
+        "user_input": "I am excited to start a new hobby!",
+        "emotion": "Enthusiasm",
+        "response": "Starting a new hobby is exciting! What made you choose this one?",
+        "cbt_suggestion": "Set realistic goals for your hobby and enjoy the learning process."
+    }
+]

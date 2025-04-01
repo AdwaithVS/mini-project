@@ -1,0 +1,3502 @@
+[
+    {
+        "id": 1501,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1502,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1503,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1504,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1505,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1506,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1507,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1508,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1509,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1510,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1511,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1512,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1513,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1514,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1515,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1516,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1517,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1518,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1519,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1520,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1521,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1522,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1523,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1524,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1525,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1526,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1527,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1528,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1529,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1530,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1531,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1532,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1533,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1534,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1535,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1536,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1537,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1538,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1539,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1540,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1541,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1542,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1543,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1544,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1545,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1546,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1547,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1548,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1549,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1550,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1551,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1552,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1553,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1554,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1555,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1556,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1557,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1558,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1559,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1560,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1561,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1562,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1563,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1564,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1565,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1566,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1567,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1568,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1569,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1570,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1571,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1572,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1573,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1574,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1575,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1576,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1577,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1578,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1579,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1580,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1581,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1582,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1583,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1584,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1585,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1586,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1587,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1588,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1589,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1590,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1591,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1592,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1593,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1594,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1595,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1596,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1597,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1598,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1599,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1600,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1601,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1602,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1603,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1604,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1605,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1606,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1607,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1608,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1609,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1610,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1611,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1612,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1613,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1614,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1615,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1616,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1617,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1618,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1619,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1620,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1621,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1622,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1623,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1624,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1625,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1626,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1627,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1628,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1629,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1630,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1631,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1632,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1633,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1634,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1635,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1636,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1637,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1638,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1639,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1640,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1641,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1642,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1643,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1644,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1645,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1646,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1647,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1648,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1649,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1650,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1651,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1652,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1653,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1654,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1655,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1656,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1657,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1658,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1659,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1660,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1661,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1662,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1663,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1664,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1665,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1666,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1667,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1668,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1669,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1670,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1671,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1672,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1673,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1674,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1675,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1676,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1677,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1678,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1679,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1680,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1681,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1682,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1683,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1684,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1685,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1686,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1687,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1688,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1689,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1690,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1691,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1692,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1693,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1694,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1695,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1696,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1697,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1698,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1699,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1700,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1701,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1702,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1703,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1704,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1705,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1706,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1707,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1708,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1709,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1710,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1711,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1712,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1713,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1714,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1715,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1716,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1717,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1718,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1719,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1720,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1721,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1722,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1723,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1724,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1725,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1726,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1727,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1728,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1729,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1730,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1731,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1732,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1733,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1734,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1735,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1736,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1737,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1738,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1739,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1740,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1741,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1742,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1743,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1744,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1745,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1746,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1747,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1748,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1749,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1750,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1751,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1752,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1753,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1754,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1755,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1756,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1757,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1758,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1759,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1760,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1761,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1762,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1763,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1764,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1765,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1766,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1767,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1768,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1769,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1770,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1771,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1772,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1773,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1774,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1775,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1776,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1777,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1778,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1779,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1780,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1781,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1782,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1783,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1784,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1785,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1786,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1787,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1788,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1789,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1790,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1791,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1792,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1793,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1794,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1795,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1796,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1797,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1798,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1799,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1800,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1801,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1802,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1803,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1804,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1805,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1806,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1807,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1808,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1809,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1810,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1811,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1812,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1813,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1814,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1815,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1816,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1817,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1818,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1819,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1820,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1821,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1822,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1823,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1824,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1825,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1826,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1827,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1828,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1829,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1830,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1831,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1832,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1833,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1834,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1835,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1836,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1837,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1838,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1839,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1840,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1841,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1842,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1843,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1844,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1845,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1846,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1847,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1848,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1849,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1850,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1851,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1852,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1853,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1854,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1855,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1856,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1857,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1858,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1859,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1860,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1861,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1862,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1863,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1864,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1865,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1866,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1867,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1868,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1869,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1870,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1871,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1872,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1873,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1874,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1875,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1876,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1877,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1878,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1879,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1880,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1881,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1882,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1883,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1884,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1885,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1886,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1887,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1888,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1889,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1890,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1891,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1892,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1893,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1894,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1895,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1896,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1897,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1898,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1899,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1900,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1901,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1902,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1903,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1904,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1905,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1906,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1907,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1908,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1909,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1910,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1911,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1912,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1913,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1914,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1915,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1916,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1917,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1918,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1919,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1920,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1921,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1922,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1923,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1924,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1925,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1926,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1927,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1928,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1929,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1930,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1931,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1932,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1933,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1934,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1935,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1936,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1937,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1938,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1939,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1940,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1941,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1942,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1943,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1944,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1945,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1946,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1947,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1948,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1949,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1950,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1951,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1952,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1953,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1954,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1955,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1956,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1957,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1958,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1959,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1960,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1961,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1962,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1963,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1964,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1965,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1966,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1967,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1968,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1969,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1970,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1971,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1972,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1973,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1974,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1975,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1976,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1977,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1978,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1979,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1980,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1981,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1982,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1983,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1984,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1985,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1986,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1987,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1988,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1989,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 1990,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    },
+    {
+        "id": 1991,
+        "user_input": "I feel nervous about making big life decisions.",
+        "emotion": "Indecisiveness",
+        "response": "Making big decisions can be stressful. Weighing the pros and cons can help clarify your choice.",
+        "cbt_suggestion": "Break down decisions into smaller steps to make them feel less overwhelming."
+    },
+    {
+        "id": 1992,
+        "user_input": "I am feeling grateful for my supportive family.",
+        "emotion": "Gratitude",
+        "response": "That\u2019s wonderful! Expressing gratitude can strengthen relationships and improve well-being.",
+        "cbt_suggestion": "Keep a gratitude journal to remind yourself of the positive aspects of life."
+    },
+    {
+        "id": 1993,
+        "user_input": "I often compare myself to others and feel inadequate.",
+        "emotion": "Inadequacy",
+        "response": "Comparing yourself to others is natural, but remember that everyone\u2019s journey is unique.",
+        "cbt_suggestion": "Shift your focus to your own progress rather than external comparisons."
+    },
+    {
+        "id": 1994,
+        "user_input": "I feel lonely even when I'm surrounded by people.",
+        "emotion": "Loneliness",
+        "response": "Feeling lonely in a crowd can be tough. Connecting deeply with one person might help.",
+        "cbt_suggestion": "Engage in meaningful conversations to feel more connected."
+    },
+    {
+        "id": 1995,
+        "user_input": "I find joy in small achievements.",
+        "emotion": "Happiness",
+        "response": "Small wins matter! What\u2019s an achievement you\u2019re proud of today?",
+        "cbt_suggestion": "Celebrate small victories to build confidence and motivation."
+    },
+    {
+        "id": 1996,
+        "user_input": "I feel frustrated when things don\u2019t go as planned.",
+        "emotion": "Frustration",
+        "response": "Unexpected situations can be frustrating. Taking a deep breath can help you regain control.",
+        "cbt_suggestion": "Reframe challenges as opportunities for growth."
+    },
+    {
+        "id": 1997,
+        "user_input": "I keep dwelling on past mistakes.",
+        "emotion": "Regret",
+        "response": "Dwelling on past mistakes can be draining. What did you learn from them?",
+        "cbt_suggestion": "Use self-compassion techniques to let go of past mistakes."
+    },
+    {
+        "id": 1998,
+        "user_input": "I feel like I can accomplish anything today!",
+        "emotion": "Empowerment",
+        "response": "That\u2019s a great mindset! How will you use this motivation today?",
+        "cbt_suggestion": "Set small, achievable goals to channel your motivation effectively."
+    },
+    {
+        "id": 1999,
+        "user_input": "I feel emotionally drained from social interactions.",
+        "emotion": "Social Exhaustion",
+        "response": "Social exhaustion is real. It\u2019s okay to take time to recharge.",
+        "cbt_suggestion": "Schedule quiet time to restore your mental energy."
+    },
+    {
+        "id": 2000,
+        "user_input": "I\u2019m looking forward to learning a new skill!",
+        "emotion": "Curiosity",
+        "response": "Learning new skills is exciting! What inspired you to start?",
+        "cbt_suggestion": "Use a structured learning plan to track your progress in acquiring new skills."
+    }
+]

@@ -1,0 +1,754 @@
+[
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do aerospace engineering."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Aerospace engineering is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do civil engineering."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Civil engineering is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do teaching."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Teaching is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do photography."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Photography is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do software development."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Software development is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do writing."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Writing is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do veterinary science."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Veterinary science is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do data analysis."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Data analysis is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do chemical engineering."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Chemical engineering is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do robotics."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Robotics is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do architecture."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Architecture is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do film making."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Film making is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do finance."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Finance is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do biotechnology."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Biotechnology is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do medicine."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Medicine is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do human resources."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Human resources is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do music production."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Music production is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do ethical hacking."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Ethical hacking is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do marine biology."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Marine biology is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do game development."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Game development is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do psychology."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Psychology is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do marketing."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Marketing is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do network security."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Network security is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do public relations."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Public relations is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do interior design."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Interior design is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do business management."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Business management is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do sports coaching."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Sports coaching is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do law."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Law is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do graphic design."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Graphic design is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do social work."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Social work is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do electrical engineering."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Electrical engineering is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do cybersecurity."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Cybersecurity is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do mechanical engineering."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Mechanical engineering is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do animation."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Animation is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do fashion design."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Fashion design is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do forensic science."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Forensic science is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do AI research."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Ai research is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do content creation."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Content creation is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do accounting."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Accounting is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do food science."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Food science is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do political science."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Political science is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do nursing."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Nursing is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do event planning."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Event planning is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do astronomy."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Astronomy is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do journalism."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Journalism is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do environmental science."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Environmental science is a great career option."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing career guidance."
+            },
+            {
+                "role": "user",
+                "content": "I like to do paramedics."
+            },
+            {
+                "role": "assistant",
+                "content": "Great! Paramedics is a great career option."
+            }
+        ]
+    }
+]

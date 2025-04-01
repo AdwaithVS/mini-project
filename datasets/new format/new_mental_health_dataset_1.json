@@ -1,0 +1,242 @@
+[
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing mental health support."
+            },
+            {
+                "role": "user",
+                "content": "I feel stressed about work."
+            },
+            {
+                "role": "assistant",
+                "content": "Stress about work is normal. Have you tried relaxation techniques?"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing mental health support."
+            },
+            {
+                "role": "user",
+                "content": "I feel stressed about relationships."
+            },
+            {
+                "role": "assistant",
+                "content": "Stress about relationships is normal. Have you tried relaxation techniques?"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing mental health support."
+            },
+            {
+                "role": "user",
+                "content": "I feel stressed about studying."
+            },
+            {
+                "role": "assistant",
+                "content": "Stress about studying is normal. Have you tried relaxation techniques?"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing mental health support."
+            },
+            {
+                "role": "user",
+                "content": "I feel stressed about daily tasks."
+            },
+            {
+                "role": "assistant",
+                "content": "Stress about daily tasks is normal. Have you tried relaxation techniques?"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing mental health support."
+            },
+            {
+                "role": "user",
+                "content": "I feel stressed about social situations."
+            },
+            {
+                "role": "assistant",
+                "content": "Stress about social situations is normal. Have you tried relaxation techniques?"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing mental health support."
+            },
+            {
+                "role": "user",
+                "content": "I feel stressed about decision-making."
+            },
+            {
+                "role": "assistant",
+                "content": "Stress about decision-making is normal. Have you tried relaxation techniques?"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing mental health support."
+            },
+            {
+                "role": "user",
+                "content": "I feel stressed about family."
+            },
+            {
+                "role": "assistant",
+                "content": "Stress about family is normal. Have you tried relaxation techniques?"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing mental health support."
+            },
+            {
+                "role": "user",
+                "content": "I feel stressed about future plans."
+            },
+            {
+                "role": "assistant",
+                "content": "Stress about future plans is normal. Have you tried relaxation techniques?"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing mental health support."
+            },
+            {
+                "role": "user",
+                "content": "I feel stressed about health."
+            },
+            {
+                "role": "assistant",
+                "content": "Stress about health is normal. Have you tried relaxation techniques?"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing mental health support."
+            },
+            {
+                "role": "user",
+                "content": "I struggle with self-doubt."
+            },
+            {
+                "role": "assistant",
+                "content": "Dealing with self-doubt can be tough. Would you like to talk more about it?"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing mental health support."
+            },
+            {
+                "role": "user",
+                "content": "I struggle with motivation."
+            },
+            {
+                "role": "assistant",
+                "content": "Dealing with motivation can be tough. Would you like to talk more about it?"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing mental health support."
+            },
+            {
+                "role": "user",
+                "content": "I struggle with finding purpose."
+            },
+            {
+                "role": "assistant",
+                "content": "Dealing with finding purpose can be tough. Would you like to talk more about it?"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing mental health support."
+            },
+            {
+                "role": "user",
+                "content": "I struggle with handling criticism."
+            },
+            {
+                "role": "assistant",
+                "content": "Dealing with handling criticism can be tough. Would you like to talk more about it?"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing mental health support."
+            },
+            {
+                "role": "user",
+                "content": "I struggle with expressing emotions."
+            },
+            {
+                "role": "assistant",
+                "content": "Dealing with expressing emotions can be tough. Would you like to talk more about it?"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant providing mental health support."
+            },
+            {
+                "role": "user",
+                "content": "I struggle with letting go of past mistakes."
+            },
+            {
+                "role": "assistant",
+                "content": "Dealing with letting go of past mistakes can be tough. Would you like to talk more about it?"
+            }
+        ]
+    }
+]
