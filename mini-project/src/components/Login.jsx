@@ -19,9 +19,9 @@ const Login = () => {
             const response = await axiosInstance.post("/login", { email, password });
             console.log("Login Response:", response.data);
             login(email, {
-                mentalHealthStatus: response.data.mental_health_score,
-                questionnaireCompleted: response.data.questionnaire_completed,
-                questionnaireAnswers: response.data.questionnaire_answers,
+                mentalHealthStatus: response.data.emotion_analysis?.overall?.status || "new", // Use status string, default to "new"
+                questionnaireCompleted: response.data.questionnaire_completed || false,
+                questionnaireAnswers: response.data.questionnaire_answers || {},
             });
             navigate("/");
         } catch (error) {

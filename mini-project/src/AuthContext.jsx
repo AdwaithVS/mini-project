@@ -1,4 +1,4 @@
-import React, { createContext, useState, useEffect } from "react";
+import React, { createContext, useState } from "react";
 
 export const AuthContext = createContext();
 
@@ -16,8 +16,7 @@ export const AuthProvider = ({ children }) => {
     localStorage.setItem("user", "loggedIn");
     localStorage.setItem("userEmail", email);
     localStorage.setItem("mentalHealthStatus", data.mentalHealthStatus || "new");
-    localStorage.setItem("questionnaireCompleted", data.questionnaireCompleted || "false");
-    window.dispatchEvent(new Event("storage"));
+    localStorage.setItem("questionnaireCompleted", data.questionnaireCompleted ? "true" : "false");
   };
 
   const logout = () => {
@@ -26,19 +25,9 @@ export const AuthProvider = ({ children }) => {
     setMentalHealthStatus("new");
     setQuestionnaireCompleted(false);
     localStorage.clear();
-    window.dispatchEvent(new Event("storage"));
   };
 
-  useEffect(() => {
-    const handleStorageChange = () => {
-      setIsAuthenticated(localStorage.getItem("user") === "loggedIn");
-      setUserEmail(localStorage.getItem("userEmail") || null);
-      setMentalHealthStatus(localStorage.getItem("mentalHealthStatus") || "new");
-      setQuestionnaireCompleted(localStorage.getItem("questionnaireCompleted") === "true");
-    };
-    window.addEventListener("storage", handleStorageChange);
-    return () => window.removeEventListener("storage", handleStorageChange);
-  }, []);
+  // Removed useEffect with storage listener since it’s not needed for same-tab updates
 
   return (
     <AuthContext.Provider value={{
@@ -48,8 +37,8 @@ export const AuthProvider = ({ children }) => {
       questionnaireCompleted,
       login,
       logout,
-      setQuestionnaireCompleted, // Add setter
-      setMentalHealthStatus // Add setter
+      setQuestionnaireCompleted,
+      setMentalHealthStatus
     }}>
       {children}
     </AuthContext.Provider>

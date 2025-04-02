@@ -14,18 +14,22 @@ const Home = () => {
   const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
-    setIsLoading(false);
-  }, []);
+    // Reset loading state when authentication or user data changes
+    setIsLoading(true);
+    const timer = setTimeout(() => setIsLoading(false), 100); // Brief delay to ensure state sync
+    return () => clearTimeout(timer);
+  }, [isAuthenticated, userEmail, mentalHealthStatus, questionnaireCompleted]);
 
-  if (isLoading)
+  if (isLoading) {
     return (
-      <Typography sx={{ textAlign: "center", mt: 4, fontFamily: "'Roboto', sans-serif", color: "#555" }}>
+      <Typography sx={{ textAlign: "center", mt: 10, fontFamily: "'Roboto', sans-serif", color: "#555" }}>
         Loading...
       </Typography>
     );
+  }
 
   return (
-    <Container maxWidth="lg" sx={{ py: 4 }}>
+    <Container maxWidth="lg" sx={{ pt: 10, pb: 4 }}>
       <Paper
         sx={{
           mt: 4,
